@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR6n0116/v1
+canonical_location: https://kanripo.org/bkk/KR6n0116/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀所緣緣論釋記
+  identifiers:
+    alt_id:
+    - X51n0832
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X51/X51n0832.xml
+    old_id: X51n0832
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0116_000.yaml, hash: 'sha256:ad26ecda925e94a1cafe627d0553c7ba02c2ba67cbedb1817b347e396b39d39d'}
+  - {seq: 1, filename: KR6n0116_001.yaml, hash: 'sha256:f362df5fc804fa6f0c7b288cc3873cd19d6ad64b446b18bcea4fd35947751911'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0116_000.markers.yaml, hash: 'sha256:327d200e1bbf93b8d5f0b229672e2c03e5f538f3dcce7fa4aae7e8de610ab403'}
+  - {seq: 1, role: markers, filename: assets/KR6n0116_001.markers.yaml, hash: 'sha256:20425d87a06f1b6840a68b92d420171d166db3922d72216571d0029be939ff99'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0116_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 832-A 觀所緣緣論釋記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0116_X_000-mulu-2
+    span:
+    - front
+    - 330
+    - 330
+  label: No. 832-B 觀所緣緣論釋記題詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0116_X_000-mulu-3
+    span:
+    - front
+    - 734
+    - 734
+  label: No. 832-C 分科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0116_X_000-mulu-4
+    span:
+    - front
+    - 1195
+    - 1195
+  label: 觀所緣緣論釋記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0116_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 21462
+  label: 觀所緣緣論釋記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0116_X_001-mulu-1
+    span:
+    - body
+    - 20705
+    - 20705
+  label: No. 832-D 觀所緣緣論釋記問答釋疑
+  type: mulu
+  level: 1
+hash: sha256:26fdcb902c5bbc849f9b61065bbfb2093f680f9acbd05cb5df56096243a035c2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
