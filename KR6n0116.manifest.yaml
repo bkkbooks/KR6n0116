@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0116_000.yaml, hash: 'sha256:ad26ecda925e94a1cafe627d0553c7ba02c2ba67cbedb1817b347e396b39d39d'}
-  - {seq: 1, filename: KR6n0116_001.yaml, hash: 'sha256:f362df5fc804fa6f0c7b288cc3873cd19d6ad64b446b18bcea4fd35947751911'}
+  - {seq: 0, filename: KR6n0116_000.yaml, hash: 'sha256:51eeb64b3701011f444fc877f0757b9f6d8ab1145f36467d876ceebf5142f6c9'}
+  - {seq: 1, filename: KR6n0116_001.yaml, hash: 'sha256:ca8eff33ef1f20effeaeb8845997fcc1ba0171ba419dc59ded1b77b5cb94d3db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0116_000.markers.yaml, hash: 'sha256:327d200e1bbf93b8d5f0b229672e2c03e5f538f3dcce7fa4aae7e8de610ab403'}
-  - {seq: 1, role: markers, filename: assets/KR6n0116_001.markers.yaml, hash: 'sha256:20425d87a06f1b6840a68b92d420171d166db3922d72216571d0029be939ff99'}
+  - {seq: 0, role: markers, filename: assets/KR6n0116_000.markers.yaml, hash: 'sha256:95a78ecf2c17d023d9a3fded68ed41dc5e109e68564f1108b97ae23c5962fa70'}
+  - {seq: 1, role: markers, filename: assets/KR6n0116_001.markers.yaml, hash: 'sha256:666dbadea9b03dc5920fdd1b0763aa98fd9eb33b843227c7ef5ba755ced6b11a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -87,7 +87,4 @@ table_of_contents:
   label: No. 832-D 觀所緣緣論釋記問答釋疑
   type: mulu
   level: 1
-hash: sha256:26fdcb902c5bbc849f9b61065bbfb2093f680f9acbd05cb5df56096243a035c2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4dd0c1aca760b6b035c11e466156f663bc2264d52b2aca345ee8afa6165bdd92
