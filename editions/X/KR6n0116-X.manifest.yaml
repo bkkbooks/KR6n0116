@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0116_000-X.yaml, hash: 'sha256:51eeb64b3701011f444fc877f0757b9f6d8ab1145f36467d876ceebf5142f6c9'}
+  - {seq: 0, filename: KR6n0116_000-X.yaml, hash: 'sha256:e9155aa0c56447e036602af8118b7ed5ceb576a3be889695df2bb6756cf03161'}
   - {seq: 1, filename: KR6n0116_001-X.yaml, hash: 'sha256:ca8eff33ef1f20effeaeb8845997fcc1ba0171ba419dc59ded1b77b5cb94d3db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0116_000-X.markers.yaml, hash: 'sha256:abd416d543e5bc9d088b58ecd92d220fa1b8fede2187db8efd4664bdaac54399'}
+  - {seq: 0, role: markers, filename: assets/KR6n0116_000-X.markers.yaml, hash: 'sha256:2609e9acd58ebd872cce65c2bb07c2b17234c8f0dc8ba311dd85a44eea869109'}
   - {seq: 1, role: markers, filename: assets/KR6n0116_001-X.markers.yaml, hash: 'sha256:933b6772fe292f45bb53a1f207999341323476e4238b06f75c81c4814236aa40'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6n0116_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 832-A 觀所緣緣論釋記序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0116_X_000-mulu-2
     span:
-    - front
+    - body
     - 330
     - 330
   label: No. 832-B 觀所緣緣論釋記題詞
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0116_X_000-mulu-3
     span:
-    - front
+    - body
     - 734
     - 734
   label: No. 832-C 分科
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0116_X_000-mulu-4
     span:
-    - front
+    - body
     - 1195
     - 1195
   label: 觀所緣緣論釋記
@@ -85,4 +85,4 @@ table_of_contents:
   label: No. 832-D 觀所緣緣論釋記問答釋疑
   type: mulu
   level: 1
-hash: sha256:55f5adcc30c379503cf7320751509db4200642bf7a00297afe828ca99956e59d
+hash: sha256:c3aca31c9a07b7bb6eff95450b4563613ae45177a1b6a56be763f5aed4743af6
